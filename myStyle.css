@@ -1,15 +1,22 @@
 body {
     font-family: Arial;
-    background: #3f3f40;
+   # background: #3f3f40;
+  background : gray;
     padding: 30px;
 }
 label {
     display: block;
-    color: #999;
+   # color: #999;
+	color:black;
     margin: 20px 0 10px;
 }
 input[type="text"] { 
 	
 	color:white;
-	background: #333;
-	}
+	#background: #333;
+	background:#000;
+}
+error{
+color:red;
+}
+
